@@ -1,1 +1,1 @@
-Live Project Preview : https://personal-knowledge-management.vercel.app/
+Live Project: https://personal-knowledge-management.vercel.app/
